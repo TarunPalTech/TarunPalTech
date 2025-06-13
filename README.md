@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Tarun Pal
 
-<!--
-**TarunPalTech/TarunPalTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer | B.Tech CSE  
+💡 I love solving DSA problems & building web apps  
+🌍 Open to global opportunities | Focus: Germany & Sweden  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- JavaScript, React, Node.js, Express
+- MongoDB, Firebase
+- Python, Django
+- C++, Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Pinned Projects
+- Portfolio website
+- DSA Problems repository
+- MERN blog or task app
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tarun-pal-87117518a/)
